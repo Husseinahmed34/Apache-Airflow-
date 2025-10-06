@@ -1,0 +1,29 @@
+# Ignore environment files
+.env
+
+# Ignore logs
+logs/
+*.log
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# SQLite or temporary DB files
+*.db
+
+# Airflow metadata and local config
+airflow.db
+unittests.cfg
+
+# Docker related cache
+*.pid
+*.sock
+
+# VS Code and IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db

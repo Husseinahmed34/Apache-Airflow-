@@ -1,0 +1,5 @@
+tweepy
+pandas
+sqlalchemy
+psycopg2-binary
+snscrape
